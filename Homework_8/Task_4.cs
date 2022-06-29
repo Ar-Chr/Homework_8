@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-using System.Collections.Generic;
-using System.Xml.Linq;
+﻿using System.Xml.Linq;
 
 namespace Homework_8
 {
