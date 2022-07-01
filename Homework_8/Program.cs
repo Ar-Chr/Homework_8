@@ -5,7 +5,7 @@ namespace Homework_8
     {
         static void Main()
         {
-            Task_4.Run();
+            Task_1.Run();
         }
     }
 }

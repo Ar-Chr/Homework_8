@@ -43,7 +43,10 @@ namespace Homework_8
             for (int i = 0; i < list.Count; i++)
             {
                 if (list[i] > min && list[i] < max)
+                {
                     list.RemoveAt(i);
+                    i--;
+                }
             }
         }
     }
